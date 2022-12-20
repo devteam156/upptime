@@ -5,12 +5,11 @@ repo: upptime # The name of this repository
 sites:
   - name: YT-Music
     url: https://YT-Music.developerteam2.repl.co
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: MC Server
+    check: "tcp-ping"
+    url: 65.108.199.248
+    port: 19620
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
