@@ -4,7 +4,7 @@
     "url": "https://YT-Music.developerteam2.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/yt-music.developerteam2.repl.co.ico",
     "slug": "yt-music",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1038,
     "timeMonth": 1038,
     "timeYear": 1038,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-26": 0
+    }
   },
   {
     "name": "MC Server",
