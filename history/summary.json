@@ -4,18 +4,19 @@
     "url": "https://YT-Music.developerteam2.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/yt-music.developerteam2.repl.co.ico",
     "slug": "yt-music",
-    "status": "up",
-    "uptime": "99.82%",
+    "status": "down",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 747,
     "timeDay": 371,
     "timeWeek": 825,
     "timeMonth": 747,
     "timeYear": 747,
     "dailyMinutesDown": {
+      "2022-12-29": 0,
       "2022-12-26": 21
     }
   },
