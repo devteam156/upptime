@@ -4,7 +4,7 @@
     "url": "https://YT-Music.developerteam2.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/yt-music.developerteam2.repl.co.ico",
     "slug": "yt-music",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
@@ -16,6 +16,7 @@
     "timeMonth": 606,
     "timeYear": 606,
     "dailyMinutesDown": {
+      "2023-01-02": 0,
       "2022-12-29": 19,
       "2022-12-26": 21
     }
