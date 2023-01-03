@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/yt-music.developerteam2.repl.co.ico",
     "slug": "yt-music",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptime": "99.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 1091,
     "timeDay": 3128,
     "timeWeek": 1208,
     "timeMonth": 1091,
     "timeYear": 1091,
     "dailyMinutesDown": {
-      "2023-01-02": 8,
       "2022-12-29": 19,
       "2022-12-26": 21
     }
