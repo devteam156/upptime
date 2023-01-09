@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/yt-music.developerteam2.repl.co.ico",
     "slug": "yt-music",
     "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "93.57%",
+    "uptime": "99.33%",
+    "uptimeDay": "96.12%",
     "uptimeWeek": "98.50%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.31%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
     "time": 2271,
-    "timeDay": 6892,
-    "timeWeek": 3936,
+    "timeDay": 2112,
+    "timeWeek": 3812,
     "timeMonth": 2271,
     "timeYear": 2271,
     "dailyMinutesDown": {
@@ -28,7 +28,7 @@
     "url": "65.108.199.248",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mc-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -39,6 +39,8 @@
     "timeWeek": 152,
     "timeMonth": 143,
     "timeYear": 143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-09": 0
+    }
   }
 ]
