@@ -1,7 +1,7 @@
 url: https://YT-Music.developerteam2.repl.co
-status: up
-code: 200
-responseTime: 354
-lastUpdated: 2023-02-14T23:16:54.098Z
+status: down
+code: 429
+responseTime: 12241
+lastUpdated: 2023-02-15T11:43:16.903Z
 startTime: Tue Dec 20 2022 21:17:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
